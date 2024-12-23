@@ -38,13 +38,11 @@ python ./auto_chat.py ./data/input/test.xlsx ./data/output/output.docx 2
 ├── pic
 ├── readme.md
 ├── requirements.txt
-├── test.py
 └── utils.py
 ```
 
 ### 4. 安装依赖
 
-运行命令行即可自行安装，你也可以通过注释来自定义
 
 ```python
 #auto_chat.py:4
